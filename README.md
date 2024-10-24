@@ -76,5 +76,3 @@ Ensure these packages are included in your `package.json` file, and they will be
 ## License
 
 This project is open-source and available under the MIT License.
-
-```
