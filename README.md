@@ -1,4 +1,3 @@
-```markdown
 # Chat Application
 
 ## Description
