@@ -42,9 +42,14 @@ Now your application should be running on `http://localhost:3000`.
    - Click on a chat to view messages, send messages, and see which users are online.
    - Use the button to create a new chat with one or more users.
 
+   ![Create Chat Screenshot](./images/Create_Chat_SS.png)
+
 3. **Sending Messages:**
    - In any chat, use the message input field to send messages.
    - Messages are displayed with the sender's email and the timestamp.
+
+   ![Chat Application Screenshot](./images/Main_Chat_SS.png)
+
 
 4. **Sign Out:**
    - You can sign out at any time by clicking the "Sign Out" button.
